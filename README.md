@@ -3,7 +3,7 @@
 - 5+ categories, 200+ commands. 
 - *!*WITHOUT THE WEBHOOK*!*. 
 - **Retards trying to webhook in github but this is without the logger**
-- . Enjoy!
+- Enjoy!
 
 # INSTALLING/SELFHOSTING 
 --- You must have at least 3.7 or up python version!
