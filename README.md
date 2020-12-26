@@ -17,7 +17,7 @@
 - And most importantly, configure your giveaway and nitro sniper in config.json file.
 
 # LEGALITY 
-- This selfbot was reposted because many retarded cordians decided to attach a logger with this and post it on github. 
+- This selfbot was reposted because many retarded discordians decided to attach a logger with this and post it on github and many other. 
 - This source has no loggers/webhook. 
 - I am not the creator/founder of EXETER selfbot nor do I use this selfbot. 
 - This was made for educational purposes and highly risks your account being disabled. 
